@@ -33,3 +33,77 @@ Fluig Style Guide
 Podemos chamar o Style Guide de biblioteca de componentes prontos, ele é de extrema relevância, através do site  https://style.fluig.com/
 Podemos utilizar componentes já desenvolvidos para facilitar o trabalho e trazer rapidez no processo.
 
+Criando o Formulário no HTML.
+<img width="950" height="242" alt="image" src="https://github.com/user-attachments/assets/5200ad5c-bf3a-4e62-8a45-06bb1858cdda" />
+
+Dentro do formulário, vamos separar os cambos através de Divs, utilizando a classe padrão Form-group.
+Primeiro, criamos um Label, que seria o titulo do campo.
+Segundo, o campo por si só, chamado de Input, aonde o cliente/usuario vai inserir os dados.
+
+Inicio do formulário criado:
+<img width="1010" height="550" alt="image" src="https://github.com/user-attachments/assets/15f505d7-4ac3-40ac-a9a9-88ec38f68675" />
+
+Aqui, eu criei alguns campos, tais como : Nome do Colaborador , CPF do colaborador, Regional e Cargo.
+
+Visualizando o Formulário criado.
+Criamos os campos iniciais do nosso formulário, agora, precisamos visualizar.
+Para visualizar o formulário, é necessário exportar para a base do Fluig, de prefêrencia na Base Teste...rs.
+<img width="1333" height="425" alt="image" src="https://github.com/user-attachments/assets/dceb3535-8d6c-4a6e-95f3-dc74aa864de5" />
+<img width="531" height="552" alt="image" src="https://github.com/user-attachments/assets/873bf690-623b-454e-8102-08bc5eb58f6b" />
+Caminho: Clique em cima do Formulário que quer exportar utilizando o botão direito, vá na opção Export, depois  Exportar para Servidor Fluig.
+<img width="526" height="237" alt="image" src="https://github.com/user-attachments/assets/a7768929-2bb0-4b44-b4be-cda34b0ffec0" />
+Escolha para qual Servidor vai exportar.
+Você vai ter duas oções, conforme imagem abaixo:
+<img width="520" height="225" alt="image" src="https://github.com/user-attachments/assets/3beede8c-d792-4a77-8a31-aabbbce1de7e" />
+Primeira: Criar um novo Formulário - Opção se é a primeira vez que você esta criando o formulário
+Segunda:Editar um formulário do Servidor - Caso você esteja corrigindo, alterando ou manuseando um formulário Já existente.
+
+
+Criar um Novo Formulário:
+<img width="490" height="495" alt="image" src="https://github.com/user-attachments/assets/aaac7f46-048d-41dd-b689-5310696acc6c" />
+Configurações necessárias:
+<img width="490" height="495" alt="image" src="https://github.com/user-attachments/assets/89f0ea50-6bec-4496-b2ef-a59a6040cf54" />
+O formulario você pode repetir o nome que criou  anteriormente.
+O nome Dataset pode manter em branco, não estamos criando Dataset.
+Pasta Destino é aonde vamos indexar ele na base do Fluig.
+
+
+Não sabe como localizar ?? Vamos lá.
+
+Localizando Pasta de Destino dentro do Fluig.
+Dentro da Base Testes do Fluig, procure no menu lateral o campo "Documentos"
+<img width="193" height="576" alt="image" src="https://github.com/user-attachments/assets/6660f0a7-000f-4efa-9381-f4308b3b2375" />
+
+Dentro da Aba Documentos:
+Aqui, você pode criar um documento para o Projeto ou identificar qual é o utilizado do processo:
+<img width="1366" height="538" alt="image" src="https://github.com/user-attachments/assets/04e81376-0103-4f04-b3ac-89a419d949c7" />
+
+<img width="904" height="703" alt="image" src="https://github.com/user-attachments/assets/6c07b734-9dd5-4a82-be68-e563603f915a" />
+Com o código que identificamos na Aba documentos, conseguimos indexar nosso formulário no local correto.
+Depois de vincular o documento, vá na opção "Finish" depois insira sua credencial da base teste e exporte.
+
+Visualizando o Formulario.
+
+Vá novamente na Aba Documentos. 
+Depois clique no Documento criado para anexar o Formulário.
+<img width="1256" height="256" alt="image" src="https://github.com/user-attachments/assets/02099191-f60f-49ba-b409-f75eab909714" />
+
+Ao clicar no formulário, você vai se deparar com o titulo  "Esta Pasta esta vázia", isso se dá pois não publicou o formulário ainda.
+Segue o passo a passo:
+Vá em "Novo", depois "Registro de Formulário"
+<img width="1288" height="292" alt="image" src="https://github.com/user-attachments/assets/0c6854da-31ee-426e-95db-7489aa55cd39" />
+Confirme para publicar, depois poderá acessar normalmente:
+<img width="1343" height="571" alt="image" src="https://github.com/user-attachments/assets/0a189d7d-4708-4c34-ab53-40171979565a" />
+<img width="1267" height="212" alt="image" src="https://github.com/user-attachments/assets/a36359cb-9afb-471d-974a-4aa704384134" />
+
+Formulário em branco após acessar pela primeira vez:
+<img width="1315" height="260" alt="image" src="https://github.com/user-attachments/assets/b7294444-7514-4960-8727-d4668c54d34c" />
+Não se preocupe, vá na opção Editar Formulário:
+<img width="1315" height="260" alt="image" src="https://github.com/user-attachments/assets/4a0acb6a-201a-438f-803c-4c35752e8415" />
+
+
+
+
+
+
+
