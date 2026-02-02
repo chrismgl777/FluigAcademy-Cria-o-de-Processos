@@ -22,7 +22,7 @@ Obs: O formulário só pode ser criado se já houver o projeto, conforme criado 
 Caminho: Clique em cima do Projeto escolhido, vá em New, depois em Formulário.
 
 <h4> Criando o nome do Formulário. </h4>
-<img width="528" height="518" alt="image" src="https://github.com/user-attachments/assets/af1682ab-61b7-4f65-95a0-e89c28d69f64" />
+<img width="528" height="518" alt="image" src="https://github.com/user-attachments/assets/af1682ab-61b7-4f65-95a0-e89c28d69f64" /> <br>
 Aqui é importante que crie um nome descritivo, bem pensado, pois será responsável pelo nome e indexação do formulário.
 
 <h4> Formulário criado: </h4> 
