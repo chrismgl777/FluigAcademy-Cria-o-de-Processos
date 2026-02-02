@@ -1,51 +1,51 @@
-# FluigAcademy-Cria-o-de-Processos
+
 <h4> Criando esse repositório para indexar meu treinamento, afim de auxiliar iniciantes na área. </h4>
 
 
-<h2> Primeiro passo, criando um projeto no Eclipse Luna. </h2>
+<h4> Primeiro passo, criando um projeto no Eclipse Luna. </h4>
 
-<h2> Com o Eclipse aberto, esta é a imagem inicial: </h2>
+<h4> Com o Eclipse aberto, esta é a imagem inicial: </h4>
 <img width="1356" height="691" alt="image" src="https://github.com/user-attachments/assets/691faec3-a6e5-4a11-a5dc-fc355011c1f7" />
 
-<h2> Criando o Projeto: </h2>
+<h4> Criando o Projeto: </h4>
 <img width="1375" height="412" alt="image" src="https://github.com/user-attachments/assets/a861df4f-5338-4610-b3bd-01a4d7941598" />
 Caminho : File-New-Projeto Fluig.
 
-<h2> Criando o nome do Projeto:  </h2>
+<h4> Criando o nome do Projeto:  </h4>
 Obs: Você não precisa criar um nome extremamente bem pensado, algo que arremate ao projeto ou algo auto descritivo já é o suficiente.
 <img width="543" height="516" alt="image" src="https://github.com/user-attachments/assets/0f29da26-d211-4f4d-b231-e8ce258682e2" />
 
-<h2> Criando o Formulário. </h2>
+<h4> Criando o Formulário. </h4>
 Obs: O formulário só pode ser criado se já houver o projeto, conforme criado anteriormente.
 <img width="1374" height="376" alt="image" src="https://github.com/user-attachments/assets/9313404d-f916-4462-83d7-a5154f3f43ec" />
 Caminho: Clique em cima do Projeto escolhido, vá em New, depois em Formulário.
 
-<h2> Criando o nome do Formulário. </h2>
+<h4> Criando o nome do Formulário. </h4>
 <img width="528" height="518" alt="image" src="https://github.com/user-attachments/assets/af1682ab-61b7-4f65-95a0-e89c28d69f64" />
 Aqui é importante que crie um nome descritivo, bem pensado, pois será responsável pelo nome e indexação do formulário.
 
-<h2> Formulário criado: </h2> 
+<h4> Formulário criado: </h4> 
 <img width="1366" height="368" alt="image" src="https://github.com/user-attachments/assets/5cb1e19c-fc7d-4e94-bcd1-741d66aac852" />
 Quando criamos o formulário, ele vem com a estrutura completa, Datasets, Events e também um Html padrão.
 
-<h2> Fluig Style Guide </h2>
+<h4> Fluig Style Guide </h4>
 <img width="1366" height="368" alt="image" src="https://github.com/user-attachments/assets/dc456eb7-ecd1-47c8-908f-158dfc119674" />
 Podemos chamar o Style Guide de biblioteca de componentes prontos, ele é de extrema relevância, através do site  https://style.fluig.com/
 Podemos utilizar componentes já desenvolvidos para facilitar o trabalho e trazer rapidez no processo.
 
-<h2> Criando o Formulário no HTML. </h2>
+<h4> Criando o Formulário no HTML. </h4>
  <img width="950" height="242" alt="image" src="https://github.com/user-attachments/assets/5200ad5c-bf3a-4e62-8a45-06bb1858cdda" />
 
 Dentro do formulário, vamos separar os cambos através de Divs, utilizando a classe padrão Form-group.
 Primeiro, criamos um Label, que seria o titulo do campo.
 Segundo, o campo por si só, chamado de Input, aonde o cliente/usuario vai inserir os dados.
 
-<h2> Inicio do formulário criado: </h2>
+<h4> Inicio do formulário criado: </h4>
 <img width="1010" height="550" alt="image" src="https://github.com/user-attachments/assets/15f505d7-4ac3-40ac-a9a9-88ec38f68675" />
 
 Aqui, eu criei alguns campos, tais como : Nome do Colaborador , CPF do colaborador, Regional e Cargo.
 
-<h2> Visualizando o Formulário criado.  </h2>
+<h4> Visualizando o Formulário criado.  </h4>
 Criamos os campos iniciais do nosso formulário, agora, precisamos visualizar.
 Para visualizar o formulário, é necessário exportar para a base do Fluig, de prefêrencia na Base Teste...rs.
 <img width="1333" height="425" alt="image" src="https://github.com/user-attachments/assets/dceb3535-8d6c-4a6e-95f3-dc74aa864de5" />
@@ -59,7 +59,7 @@ Primeira: Criar um novo Formulário - Opção se é a primeira vez que você est
 Segunda:Editar um formulário do Servidor - Caso você esteja corrigindo, alterando ou manuseando um formulário Já existente.
 
 
-<h2> Criar um Novo Formulário: </h2>
+<h4> Criar um Novo Formulário: </h4>
 <img width="490" height="495" alt="image" src="https://github.com/user-attachments/assets/aaac7f46-048d-41dd-b689-5310696acc6c" />
 Configurações necessárias:
 <img width="490" height="495" alt="image" src="https://github.com/user-attachments/assets/89f0ea50-6bec-4496-b2ef-a59a6040cf54" />
@@ -68,7 +68,7 @@ O nome Dataset pode manter em branco, não estamos criando Dataset.
 Pasta Destino é aonde vamos indexar ele na base do Fluig.
 
 
-<h2> Não sabe como localizar ?? Vamos lá. </h2>
+<h4> Não sabe como localizar ?? Vamos lá. </h4>
 
 Localizando Pasta de Destino dentro do Fluig.
 Dentro da Base Testes do Fluig, procure no menu lateral o campo "Documentos"
@@ -82,7 +82,7 @@ Aqui, você pode criar um documento para o Projeto ou identificar qual é o util
 Com o código que identificamos na Aba documentos, conseguimos indexar nosso formulário no local correto.
 Depois de vincular o documento, vá na opção "Finish" depois insira sua credencial da base teste e exporte.
 
-<h2> Visualizando o Formulario. </h2>
+<h4> Visualizando o Formulario. </h4>
 
 Vá novamente na Aba Documentos. 
 Depois clique no Documento criado para anexar o Formulário.
