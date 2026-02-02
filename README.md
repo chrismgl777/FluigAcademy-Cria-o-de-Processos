@@ -13,11 +13,12 @@ Caminho : File-New-Projeto Fluig.
 
 <h4> Criando o nome do Projeto:  </h4>
 Obs: Você não precisa criar um nome extremamente bem pensado, algo que arremate ao projeto ou algo auto descritivo já é o suficiente.
+<br>
 <img width="543" height="516" alt="image" src="https://github.com/user-attachments/assets/0f29da26-d211-4f4d-b231-e8ce258682e2" />
 
 <h4> Criando o Formulário. </h4>
-Obs: O formulário só pode ser criado se já houver o projeto, conforme criado anteriormente.
-<img width="1374" height="376" alt="image" src="https://github.com/user-attachments/assets/9313404d-f916-4462-83d7-a5154f3f43ec" />
+Obs: O formulário só pode ser criado se já houver o projeto, conforme criado anteriormente. <br>
+<img width="1374" height="376" alt="image" src="https://github.com/user-attachments/assets/9313404d-f916-4462-83d7-a5154f3f43ec" /> <br>
 Caminho: Clique em cima do Projeto escolhido, vá em New, depois em Formulário.
 
 <h4> Criando o nome do Formulário. </h4>
@@ -47,22 +48,22 @@ Aqui, eu criei alguns campos, tais como : Nome do Colaborador , CPF do colaborad
 
 <h4> Visualizando o Formulário criado.  </h4>
 Criamos os campos iniciais do nosso formulário, agora, precisamos visualizar.
-Para visualizar o formulário, é necessário exportar para a base do Fluig, de prefêrencia na Base Teste...rs.
-<img width="1333" height="425" alt="image" src="https://github.com/user-attachments/assets/dceb3535-8d6c-4a6e-95f3-dc74aa864de5" />
-<img width="531" height="552" alt="image" src="https://github.com/user-attachments/assets/873bf690-623b-454e-8102-08bc5eb58f6b" />
-Caminho: Clique em cima do Formulário que quer exportar utilizando o botão direito, vá na opção Export, depois  Exportar para Servidor Fluig.
-<img width="526" height="237" alt="image" src="https://github.com/user-attachments/assets/a7768929-2bb0-4b44-b4be-cda34b0ffec0" />
-Escolha para qual Servidor vai exportar.
-Você vai ter duas oções, conforme imagem abaixo:
-<img width="520" height="225" alt="image" src="https://github.com/user-attachments/assets/3beede8c-d792-4a77-8a31-aabbbce1de7e" />
-Primeira: Criar um novo Formulário - Opção se é a primeira vez que você esta criando o formulário
-Segunda:Editar um formulário do Servidor - Caso você esteja corrigindo, alterando ou manuseando um formulário Já existente.
+Para visualizar o formulário, é necessário exportar para a base do Fluig, de prefêrencia na Base Teste...rs. <br>
+<img width="1333" height="425" alt="image" src="https://github.com/user-attachments/assets/dceb3535-8d6c-4a6e-95f3-dc74aa864de5" /> <br>
+<img width="531" height="552" alt="image" src="https://github.com/user-attachments/assets/873bf690-623b-454e-8102-08bc5eb58f6b" /> <br>
+Caminho: Clique em cima do Formulário que quer exportar utilizando o botão direito, vá na opção Export, depois  Exportar para Servidor Fluig.  <br>
+<img width="526" height="237" alt="image" src="https://github.com/user-attachments/assets/a7768929-2bb0-4b44-b4be-cda34b0ffec0" /> <br>
+Escolha para qual Servidor vai exportar. <br>
+Você vai ter duas oções, conforme imagem abaixo: <br>
+<img width="520" height="225" alt="image" src="https://github.com/user-attachments/assets/3beede8c-d792-4a77-8a31-aabbbce1de7e" /> <BR>
+Primeira: Criar um novo Formulário - Opção se é a primeira vez que você esta criando o formulário <br>
+Segunda:Editar um formulário do Servidor - Caso você esteja corrigindo, alterando ou manuseando um formulário Já existente. <br>
 
 
-<h4> Criar um Novo Formulário: </h4>
-<img width="490" height="495" alt="image" src="https://github.com/user-attachments/assets/aaac7f46-048d-41dd-b689-5310696acc6c" />
-Configurações necessárias:
-<img width="490" height="495" alt="image" src="https://github.com/user-attachments/assets/89f0ea50-6bec-4496-b2ef-a59a6040cf54" />
+<h4> Criar um Novo Formulário: </h4>  <br>
+<img width="490" height="495" alt="image" src="https://github.com/user-attachments/assets/aaac7f46-048d-41dd-b689-5310696acc6c" />  <br>
+Configurações necessárias: <br>
+<img width="490" height="495" alt="image" src="https://github.com/user-attachments/assets/89f0ea50-6bec-4496-b2ef-a59a6040cf54" /> <br>
 O formulario você pode repetir o nome que criou  anteriormente.
 O nome Dataset pode manter em branco, não estamos criando Dataset.
 Pasta Destino é aonde vamos indexar ele na base do Fluig.
@@ -71,14 +72,14 @@ Pasta Destino é aonde vamos indexar ele na base do Fluig.
 <h4> Não sabe como localizar ?? Vamos lá. </h4>
 
 Localizando Pasta de Destino dentro do Fluig.
-Dentro da Base Testes do Fluig, procure no menu lateral o campo "Documentos"
-<img width="193" height="576" alt="image" src="https://github.com/user-attachments/assets/6660f0a7-000f-4efa-9381-f4308b3b2375" />
+Dentro da Base Testes do Fluig, procure no menu lateral o campo "Documentos" <br>
+<img width="193" height="576" alt="image" src="https://github.com/user-attachments/assets/6660f0a7-000f-4efa-9381-f4308b3b2375" /> <br>
 
-Dentro da Aba Documentos:
-Aqui, você pode criar um documento para o Projeto ou identificar qual é o utilizado do processo:
+Dentro da Aba Documentos: <br>
+Aqui, você pode criar um documento para o Projeto ou identificar qual é o utilizado do processo: <br>
 <img width="1366" height="538" alt="image" src="https://github.com/user-attachments/assets/04e81376-0103-4f04-b3ac-89a419d949c7" />
 
-<img width="904" height="703" alt="image" src="https://github.com/user-attachments/assets/6c07b734-9dd5-4a82-be68-e563603f915a" />
+<img width="904" height="703" alt="image" src="https://github.com/user-attachments/assets/6c07b734-9dd5-4a82-be68-e563603f915a" />  <br>
 Com o código que identificamos na Aba documentos, conseguimos indexar nosso formulário no local correto.
 Depois de vincular o documento, vá na opção "Finish" depois insira sua credencial da base teste e exporte.
 
